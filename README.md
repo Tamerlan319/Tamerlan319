@@ -1,5 +1,5 @@
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?Tamerlan319)
+[![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?Tamerlan319)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
